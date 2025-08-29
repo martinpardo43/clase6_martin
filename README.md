@@ -23,3 +23,19 @@ public class Perro : IMascota
     }
 }
 ```
+# Iniciar git
+```bash
+git init
+```
+Agregar todos los cambios 
+```bash
+git add .
+```
+Poner nombre a la version 
+```bash
+git commit -m "nombreversion"
+```
+Para verificar la rama
+```bash
+git branch
+```
