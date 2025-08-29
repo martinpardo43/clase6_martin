@@ -42,6 +42,12 @@ class Program
 
         auto2 auto2 = new auto2();
         auto2.Acelerar();
+
+        Vehiculo1 vehiculo2 = new Vehiculo1();
+        vehiculo2.SonarClaxon();
+
+        Vehiculo1 vehiculo3 = new auto3();
+        vehiculo3.SonarClaxon();
     }
 }
 
@@ -82,5 +88,20 @@ public class auto2 : Vehiculo
     public void Acelerar()
     {
         Console.WriteLine("El auto2 ha arrancado");
+    }
+}
+//Polimorfirmo
+public class Vehiculo1
+{
+    public virtual void SonarClaxon()
+    {
+        Console.WriteLine("PiPi");
+    }
+}
+public class auto3 : Vehiculo1
+{
+    public override void SonarClaxon()
+    {
+        Console.WriteLine("PiPiPiPi");
     }
 }
