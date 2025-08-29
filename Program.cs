@@ -48,6 +48,12 @@ class Program
 
         Vehiculo1 vehiculo3 = new auto3();
         vehiculo3.SonarClaxon();
+
+        Perro perro1 = new Perro("Carlo", 2);
+        perro1.HacerSonido();
+
+        Gato gato1 = new Gato("Pelin", 1);
+        gato1.HacerSonido();
     }
 }
 
@@ -103,5 +109,41 @@ public class auto3 : Vehiculo1
     public override void SonarClaxon()
     {
         Console.WriteLine("PiPiPiPi");
+    }
+}
+
+// Ejercicios 
+public interface IMascota
+{
+    void HacerSonido();
+}
+public class Perro : IMascota
+{
+    public string? Nombre { get; set; }
+    public int Edad { get; set; }
+    public Perro(string nombre, int edad)
+    {
+        Nombre = nombre;
+        Edad = edad;
+    }
+    public void HacerSonido()
+    {
+        Console.WriteLine($"El nombre de tu perro es {Nombre} y tiene {Edad} años");
+        Console.WriteLine("Guau Guau");
+    }
+}
+public class Gato : IMascota
+{
+    public string? Nombre { get; set; }
+    public int Edad { get; set; }
+    public Gato(string nombre, int edad)
+    {
+        Nombre = nombre;
+        Edad = edad;
+    }
+    public void HacerSonido()
+    {
+        Console.WriteLine($"El nombre de tu gato es {Nombre} y tiene {Edad} año");
+        Console.WriteLine("Miau Miau");
     }
 }
