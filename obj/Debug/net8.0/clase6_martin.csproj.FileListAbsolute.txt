@@ -12,3 +12,4 @@ C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\refint\clase6_martin.dl
 C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.pdb
 C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.genruntimeconfig.cache
 C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\ref\clase6_martin.dll
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.sourcelink.json
