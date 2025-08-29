@@ -1,0 +1,14 @@
+C:\Users\Alumno\Downloads\clase6_martin\bin\Debug\net8.0\clase6_martin.exe
+C:\Users\Alumno\Downloads\clase6_martin\bin\Debug\net8.0\clase6_martin.deps.json
+C:\Users\Alumno\Downloads\clase6_martin\bin\Debug\net8.0\clase6_martin.runtimeconfig.json
+C:\Users\Alumno\Downloads\clase6_martin\bin\Debug\net8.0\clase6_martin.dll
+C:\Users\Alumno\Downloads\clase6_martin\bin\Debug\net8.0\clase6_martin.pdb
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.AssemblyInfoInputs.cache
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.AssemblyInfo.cs
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.dll
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\refint\clase6_martin.dll
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.pdb
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\clase6_martin.genruntimeconfig.cache
+C:\Users\Alumno\Downloads\clase6_martin\obj\Debug\net8.0\ref\clase6_martin.dll
